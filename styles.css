@@ -1,0 +1,18 @@
+body {
+    border: 2px solid rgb(61, 48, 48);
+    margin: 1em auto;
+    padding: 1em;
+    max-width: 50em; 
+  }
+ .elvis {
+      color: pink
+      font-size 12px;
+ }
+  h2 {
+      color: orange
+     }
+  ul {
+      color: purple
+     }
+  h1 {text-align: center;
+     }
